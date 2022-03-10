@@ -1,4 +1,4 @@
-module.exports = { 🔧 Prefix/Token
+module.exports = { 
     dsc: {
         token: ''
     },
