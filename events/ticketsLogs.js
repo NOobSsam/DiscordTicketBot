@@ -19,5 +19,5 @@ module.exports = (client, type, guild, user) => {
         case 'saveTicket': {
             return console.log(`${user.username} just saved a ticket on the server ${guild.name}`);
         }
-    }
+    }z
 };
