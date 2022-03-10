@@ -1,5 +1,5 @@
 const { Client, Intents } = require('discord.js');
-
+⚗️ Get Ready
 global.client = new Client({
     intents: [
         Intents.FLAGS.GUILDS,
