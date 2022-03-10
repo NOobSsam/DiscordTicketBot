@@ -2,7 +2,7 @@
     "name": "discord-tickets",
     "main": "main.js",
     "author": "NOobSsamDevy",
-    "version": "1.0.0",
+    "version": "1.0.0",🔖 v1.0.0
     "repository": "https://github.com/NOobSsam/Discord-Ticket-Bot",
     "description": "A cool Discord bot to manage tickets on your server",
     "scripts": {
