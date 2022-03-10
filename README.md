@@ -1,6 +1,6 @@
 # Discord Tickets Bot
 
-A cool Discord bot to manage tickets on your server 🎫
+A cool Discord bot to manage tickets on your server 🎫h
 
 *Project under construction... follow the progress on the [Discord](https://discord.gg/11pm) server.*
 
