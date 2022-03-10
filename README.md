@@ -1,4 +1,4 @@
-# Discord Tickets
+# Discord Tickets Bot
 
 A cool Discord bot to manage tickets on your server 🎫
 
