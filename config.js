@@ -4,6 +4,6 @@ module.exports = {
     },
 
     app: {
-        prefix: '!'
+        prefix: '/'
     }
 };
